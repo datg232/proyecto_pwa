@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "es",
+    "name": "PWA ejemplo",
+    "short_name": "PWA ejemplo",
+    "scope": "/proyecto_pwa/",
+    "display": "browser",
+    "start_url": "https://datg232.github.io/proyecto_pwa/",
+    "background_color": "transparent",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://datg232.github.io/proyecto_pwa/",
+    "screenshots": []
+}
